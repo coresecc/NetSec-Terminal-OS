@@ -56,7 +56,6 @@ def create_acc():
             USERNAME {user}
             PASSWORD {password}
             CONFIRMED PASSWORD {confirm_password}
-            IP ADRESS {ip}
             HOSTNAME {hostname}
             """)
             time.sleep(3)
